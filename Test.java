@@ -3,6 +3,7 @@ public class Test {
         int x = 10;
         if(x>=10) {
             System.out.println("Acest numar > 0");
+            System.out.println("Acest numar > 0");
         }
 
     }
